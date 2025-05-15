@@ -1,1 +1,3 @@
 # power-BI-uber-analysis-
+
+What 10,000 Uber Trips Reveal About Human Habits I analyzed thousands of Uber rides - and discovered we're all more alike than we think. Here’s the fun part: 1. Our Daily Rush Peak hours? 6-9 AM (Don’t be late) and 10 PM-2 AM  2. The Cashless Revolution 83% of riders use digital payments - even elder people age 50 obove prefers Uber Pay now. 💳 3. The Comfort Paradox People choose pricier Uber Comfort for short trips. That extra $2 for legroom? Worth it. Why This Matters Behind every data point is a human story: our shared need for convenience, comfort, and that perfect 5-star ride. 
